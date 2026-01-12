@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571319769924",
+    "project_id": "hat-giong-fa985",
+    "storage_bucket": "hat-giong-fa985.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571319769924:android:133a50ae86adc94c88d511",
+        "android_client_info": {
+          "package_name": "com.greenseed.hatgiong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JoYi59lCVuA1a9Az1WBBg2BP0fvqToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
